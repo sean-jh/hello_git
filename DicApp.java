@@ -1,3 +1,5 @@
+//I had changed some
+
 import java.util.Scanner;
 
 class Dictionary {
